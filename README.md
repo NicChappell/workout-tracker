@@ -1,2 +1,5 @@
-# workout-tracker
-A workout tracker application backed by Express and MongoDB
+# Workout Tracker
+
+A workout tracker application backed by Express and MongoDB.
+
+Deployed with Heroku: []()
